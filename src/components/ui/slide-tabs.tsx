@@ -52,7 +52,7 @@ export const SlideTabs = () => {
           });
         }
       }}
-      className="relative mx-auto flex w-fit min-w-[320px] sm:min-w-[460px] md:min-w-[580px] lg:min-w-[660px] justify-between items-center rounded-full border-[1.5px] border-black bg-white p-1 dark:border-white/80 dark:bg-neutral-900/90 shadow-2xl backdrop-blur-sm"
+      className="relative mx-auto flex w-fit min-w-[320px] sm:min-w-[460px] md:min-w-[580px] lg:min-w-[660px] justify-between items-center rounded-full border-[1.5px] border-white/60 bg-black/40 backdrop-blur-md shadow-lg shadow-black/40 p-1"
     >
       {["Home", "Portfolio", "Sell/Buy", "Agents"].map((tab, i) => (
         <Tab
