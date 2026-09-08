@@ -1,0 +1,6 @@
+{
+  "name": "Parallax Effect",
+  "description": "Interactive multi-layer scroll parallax component with GSAP ScrollTrigger and Lenis smooth scrolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
